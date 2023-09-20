@@ -1,0 +1,1 @@
+var host='https://kis.ibik.ac.id:-1';
